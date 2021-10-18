@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'tippfocusweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B45337B1559040EC8DB2B8B552365485 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20A90E5C2A944458A366C9585F4BF731 }}
           package: .
